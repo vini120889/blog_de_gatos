@@ -1,7 +1,7 @@
 
 # Blog de Gatos
 
-## Informações do projeto
+### Informações do projeto
 
 Neste projeto foram utilizados conhecimentos como:
 - Conceitos Avançados de HTML:
